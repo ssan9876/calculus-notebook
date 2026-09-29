@@ -1,5 +1,7 @@
 # Calculus
 
+**Live app:** https://ssan9876.github.io/calculus-notebook/
+
 Calculus is a local-first computational notebook for symbolic mathematics and
 Python. It combines a fast in-browser Math.js kernel with Python 3 powered by
 Pyodide, stores notebooks in IndexedDB, and can run as a PWA or native desktop
